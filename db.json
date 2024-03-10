@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "budi@mail.com",
+      "password": "cihuy"
+    },
+    {
+      "id": 2,
+      "email": "joko@mail.com",
+      "password": "Admin123!"
+    },
+    {
+      "email": "heru@mail.com",
+      "password": "purwanto2",
+      "id": 3
+    },
+    {
+      "email": "heru@mail.com",
+      "password": "purwanto2",
+      "id": 4
+    },
+    {
+      "email": "heru@mail.com",
+      "password": "purwanto2",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Rokok",
+      "price": 20000
+    },
+    {
+      "id": 2,
+      "name": "Korek",
+      "price": 5000
+    }
+  ]
+}
