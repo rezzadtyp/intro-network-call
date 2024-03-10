@@ -48,7 +48,7 @@ const Home = () => {
         password: "cihuy",
       });
 
-      alert("update password succes");
+      alert("update password success");
     } catch (error) {
       console.log(error);
     }
